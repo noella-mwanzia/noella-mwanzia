@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @noella-mwanzia
-- 👀 I’m interested in Web development
+- 👋 Hi, I’m @noella-mwanzia 
+- 👀 This account is a continuation of my legacy account https://github.com/noellamwanzia
 - 💞️ I’m looking to collaborate in building cool web products
 
 
